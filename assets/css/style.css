@@ -190,6 +190,9 @@ section {
 
 .trainers {
     text-align: center;
+}
+
+.trainer {
     width: 900px;
     margin: 0 auto 30px auto;
     background: #024e76;
@@ -233,6 +236,8 @@ section {
 }
 
 
+
+
 /*reach out section*/
 .section-title {
     font-size: 55px;
@@ -244,7 +249,7 @@ section {
   }
 
   /* REACH OUT STYLES START */
-.contact {
+ .contact {
     text-align: center;
     background: #024e76;
   }
@@ -284,3 +289,4 @@ section {
   }
   
   /* REACH OUT STYLES END */
+
